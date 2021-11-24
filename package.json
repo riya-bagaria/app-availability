@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "@ionic-native/app-availability@5.36.0",
+      "/Users/riyabagaria/Workstation/ios/supr-app-v3"
+    ]
+  ],
+  "_from": "@ionic-native/app-availability@5.36.0",
+  "_id": "@ionic-native/app-availability@5.36.0",
+  "_inBundle": false,
+  "_integrity": "sha512-BkqwOpmeasW9G9NMQmaWjuCBx5ayz/ik5g9hmdhy55vTZhQQg2H0N2BysLr8wB/JU9BQ8E/0t96qGBwFZ+JTjA==",
+  "_location": "/@ionic-native/app-availability",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@ionic-native/app-availability@5.36.0",
+    "name": "@ionic-native/app-availability",
+    "escapedName": "@ionic-native%2fapp-availability",
+    "scope": "@ionic-native",
+    "rawSpec": "5.36.0",
+    "saveSpec": null,
+    "fetchSpec": "5.36.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native/app-availability/-/app-availability-5.36.0.tgz",
+  "_spec": "5.36.0",
+  "_where": "/Users/riyabagaria/Workstation/ios/supr-app-v3",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "dependencies": {
+    "@types/cordova": "latest"
+  },
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "main": "bundle.js",
+  "module": "index.js",
+  "name": "@ionic-native/app-availability",
+  "peerDependencies": {
+    "rxjs": "^5.5.0 || ^6.5.0",
+    "@ionic-native/core": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "5.36.0"
+}
